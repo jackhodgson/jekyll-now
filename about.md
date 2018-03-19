@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Audio/Video Producer. Writer. Pilot. YouTube creator. Novice Maker. RedSox Fan. Co-host: Uncontrolled Airspace Podcast.
 
-### More Information
+![](htt[://jackhodgson.com/img/2018/jgh8biticon_grayheadshot_2.png)
 
-A place to include any other types of information that you'd like to include about yourself.
+<!-- ### More Information
+
+email: jackhodgson@gmail.com -->
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jackhodgson@gmail.com](mailto:jackhodgson@gmail.com)
