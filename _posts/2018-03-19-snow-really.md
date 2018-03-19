@@ -1,6 +1,7 @@
 ---
 title: Snow, really?!
 layout: post
+category: lookout point
 ---
 
 It's the day before the start of Spring and there's still nearly 100% snow cover here at Lookout Point.
